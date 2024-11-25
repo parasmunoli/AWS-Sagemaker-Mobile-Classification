@@ -46,7 +46,17 @@ The **AWS Sagemaker Mobile Classification** project demonstrates end-to-end mach
 
 ## Usage
 1. **Model Training:** Use `model.ipynb` to train and evaluate the model.
-2. **Run Scripts:** Execute script.py to preprocess data or interact with the trained model.
-3. **Test Model:** Utilize test-V-1.csv to validate predictions.
+2. **Run Scripts:** Execute `script.py` to preprocess data or interact with the trained model.
+3. **Test Model:** Utilize `test-V-1.csv` to validate predictions.
 
 ## Dataset
+- Training Data: `train-V-1.csv`
+- Test Data: `test-V-1.csv`
+The datasets include features relevant to mobile device classification.
+
+## Model Development
+- Frameworks Used: Scikit-learn, Pandas, and AWS Sagemaker.
+- Steps Covered:
+    - Data preprocessing.
+    - Model training and evaluation.
+    - Exporting the trained model for deployment.
