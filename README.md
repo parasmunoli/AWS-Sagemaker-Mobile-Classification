@@ -45,7 +45,7 @@ The **AWS Sagemaker Mobile Classification** project demonstrates end-to-end mach
    pip install -r requirements.txt
 
 ## Usage
-1. **Model Training:** Use 'model.ipynb' to train and evaluate the model.
+1. **Model Training:** Use [Drupal](model.ipynb) to train and evaluate the model.
 2. **Run Scripts:** Execute script.py to preprocess data or interact with the trained model.
 3. **Test Model:** Utilize test-V-1.csv to validate predictions.
 
