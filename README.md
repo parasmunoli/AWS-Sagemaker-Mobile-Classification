@@ -60,3 +60,10 @@ The datasets include features relevant to mobile device classification.
     - Data preprocessing.
     - Model training and evaluation.
     - Exporting the trained model for deployment.
+
+## AWS Deployment
+The model can be deployed on AWS Sagemaker to leverage cloud-based scalability. Key steps include:  
+
+Upload data to S3.  
+Configure Sagemaker training jobs.  
+Deploy the trained model using Sagemaker endpoints.  
